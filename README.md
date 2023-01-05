@@ -2,10 +2,4 @@
 
 An amazing counter app built with HTML, CSS and JavaScript
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
+![row-counter](https://user-images.githubusercontent.com/76922943/210873848-e434f973-c93a-43d5-9166-6fc1e3cb4694.png)
